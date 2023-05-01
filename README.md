@@ -2,10 +2,10 @@ This is a portfolio project in SQL that analyzes COVID-19 data from January 8th,
 
 The purpose of this project is to practice data analysis using SQL queries and to gain insights into the trends and patterns of COVID-19 and vaccination data across the world. The SQL scripts uploaded in this repository cover various aspects of data analysis, including data cleaning, aggregation, filtering, and visualization.
 
+Visualization can be viewed here: https://public.tableau.com/views/Covid-DataProject/Covid-19Update?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link
+
 Note that the data is updated frequently, so the analysis in this project may not reflect the most recent COVID-19 and vaccination trends.
 
-
-<div class='tableauPlaceholder' id='viz1682981517893' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Co&#47;Covid-DataProject&#47;Covid-19Update&#47;1_rss.png' style='border: none' /></a></noscript><iframe class='tableauViz' src='https://public.tableau.com/views/Covid-DataProject/Covid-19Update?:language=en-GB&amp;:display_count=y&amp;publish=yes&amp;:origin=viz_share_link' width='150%' height='1000px' frameborder='0' allowfullscreen></iframe><script type='text/javascript'>                    var divElement = document.getElementById('viz1682981517893');                    var vizElement = divElement.getElementsByTagName('iframe')[0];                    if ( divElement.offsetWidth > 1000 ) { vizElement.style.minWidth='900px';vizElement.style.maxWidth='100%';vizElement.style.minHeight='910px';vizElement.style.maxHeight=(divElement.offsetWidth*0.75)+'px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.minWidth='900px';vizElement.style.maxWidth='100%';vizElement.style.minHeight='910px';vizElement.style.maxHeight=(divElement.offsetWidth*0.75)+'px';} else { vizElement.style.width='100%';vizElement.style.minHeight='1450px';vizElement.style.maxHeight=(divElement.offsetWidth*1.77)+'px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
 
 
 # PortfolioProjects 
