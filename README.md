@@ -1,5 +1,3 @@
-This is the First on the series of portfolio Data Analytics projects. Details can be found below 
-
 1. COVID-!9 GLOBAL STATUS ANALYSIS PROJECT
 
 This is a SQL portfolio project analyzing COVID-19 data from January 8th, 2020 to April 19th, 2023, sourced from Our World in Data (https://ourworldindata.org/coronavirus). The data is comprised of two tables: CovidDeaths and CovidVaccinations, containing information on confirmed cases, deaths, and vaccine doses administered by location and date.
