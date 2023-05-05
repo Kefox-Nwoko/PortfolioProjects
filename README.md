@@ -1,4 +1,4 @@
-1. COVID-!9 GLOBAL STATUS ANALYSIS PROJECT
+Project-01: COVID-!9 GLOBAL STATUS ANALYSIS PROJECT
 
 This is a SQL portfolio project analyzing COVID-19 data from January 8th, 2020 to April 19th, 2023, sourced from Our World in Data (https://ourworldindata.org/coronavirus). The data is comprised of two tables: CovidDeaths and CovidVaccinations, containing information on confirmed cases, deaths, and vaccine doses administered by location and date.
 
@@ -8,7 +8,7 @@ For visualizations of the data, please see: https://public.tableau.com/views/Cov
 
 Please note that as the data is updated frequently, the analysis in this project may not reflect the most recent COVID-19 and vaccination trends.
 
-2.  NASHVILLE HOUSING DATA CLEANING PROJECT
+Project-02: NASHVILLE HOUSING DATA CLEANING PROJECT
 
 Welcome to my portfolio project on data cleaning with SQL! In this project, I worked on the Nashville Housing dataset and employed various aspects of data cleaning to ensure the data is usable and reliable for analysis.
 
