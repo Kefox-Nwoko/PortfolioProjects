@@ -7,3 +7,4 @@ The objective of this project is to practice data analysis using SQL queries and
 For visualizations of the data, please see: https://public.tableau.com/views/Covid-DataProject/Covid-19Update?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link
 
 Please note that as the data is updated frequently, the analysis in this project may not reflect the most recent COVID-19 and vaccination trends.
+.
