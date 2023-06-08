@@ -9,3 +9,7 @@ With data profiling, I was able to identify missing values, null values, and out
 Finally, data cleansing involved removing duplicates, fixing invalid data, and correcting inconsistencies in the dataset.
 
 Overall, this project showcases my expertise in data cleaning using SQL and my ability to apply various data cleaning techniques to ensure that data is accurate, consistent, and reliable. 
+
+
+
+# Data Cleaning # DataAnalytics # PortfolioProjects # Housing Data
