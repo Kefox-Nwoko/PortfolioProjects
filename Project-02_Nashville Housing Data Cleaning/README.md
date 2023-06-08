@@ -12,4 +12,4 @@ Overall, this project showcases my expertise in data cleaning using SQL and my a
 
 
 
-# Data Cleaning # DataAnalytics # PortfolioProjects # Housing Data
+# DataCleaning DataAnalytics PortfolioProjects HousingData
