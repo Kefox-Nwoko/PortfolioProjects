@@ -4,12 +4,12 @@ Welcome to my portfolio project on data cleaning with SQL! In this project, I wo
 
 The Nashville Housing dataset is a complex and large dataset with multiple data quality issues. To address these issues, I employed the following data cleaning techniques:
 
-Data Profiling
-Data Transformation
-Data Normalization
-Data Standardization 
-Data Enrichment
-Data Cleansing.
+Data Profiling  
+Data Transformation  
+Data Normalization  
+Data Standardization  
+Data Enrichment  
+Data Cleansing
 
 With data profiling, I was able to identify missing values, null values, and outliers in the dataset. Using data transformation, I converted the data into a more suitable format, cleaned the data, and removed unwanted data elements. Data normalization helped to eliminate data redundancy and improve data consistency while data standardization ensured that data values were consistent across different data sources.
 
